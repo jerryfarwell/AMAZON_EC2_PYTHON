@@ -63,7 +63,7 @@ CORS_ALLOWED_ORIGINS = [
 
 # this is added with CORS_ALLOWED_ORIGINS
 # Allow credentials (cookies, authorization headers, etc.)
-CORS_ALLOW_CREDENTIALS = True
+# CORS_ALLOW_CREDENTIALS = True
 
 
 ROOT_URLCONF = 'my_django_app.urls'
